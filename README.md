@@ -8,4 +8,4 @@ MENTOR: NEELA SANTOSH
 By taking help of some sources i created a code 
 This involves using historical data and algorithms to forecast future outcomes and identify potential trends
 Output 
-<img width="1024" height="1384" alt="Image" src="https://github.com/user-attachments/assets/668138a1-68eb-4865-8bca-fead194f43b4" />
+![Image](https://github.com/user-attachments/assets/da84f43c-4d3e-4d2e-82a6-af75aa7dc70d)
